@@ -1,0 +1,1509 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MicroPayments - Paid Author Subscriptions, Content, "
+"Downloads, Membership\n"
+"POT-Creation-Date: 2023-10-07 14:24+0300\n"
+"PO-Revision-Date: 2021-04-01 20:59+0300\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: paid-membership.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/options.php:96
+msgid "Add Plugins"
+msgstr ""
+
+#: inc/options.php:105
+msgid "Consult Developers"
+msgstr ""
+
+#: inc/options.php:113
+msgid "Contact Support"
+msgstr ""
+
+#: inc/options.php:125
+msgid "MicroPayments"
+msgstr ""
+
+#: inc/options.php:134
+msgid "Transactions"
+msgstr ""
+
+#: inc/options.php:143
+msgid "Frontend Pages"
+msgstr ""
+
+#: inc/options.php:152
+msgid "Billing Wallets"
+msgstr ""
+
+#: inc/options.php:161
+msgid "Paid Content"
+msgstr ""
+
+#: inc/options.php:170 inc/shortcodes.php:4597
+msgid "Token Packages"
+msgstr ""
+
+#: inc/options.php:179
+msgid "Author Subscriptions"
+msgstr ""
+
+#: inc/options.php:188
+msgid "Donations Funding"
+msgstr ""
+
+#: inc/options.php:197
+msgid "Documentation"
+msgstr ""
+
+#: inc/options.php:207
+msgid "Discuss WP Plugin"
+msgstr ""
+
+#: inc/options.php:216
+msgid "Review WP Plugin"
+msgstr ""
+
+#: inc/options.php:225
+msgid "Video Hosting"
+msgstr ""
+
+#: inc/options.php:234
+msgid "Turnkey Site"
+msgstr ""
+
+#: inc/options.php:251
+msgid "My Wallet"
+msgstr ""
+
+#: inc/options.php:267
+msgid "Manage Assets"
+msgstr ""
+
+#: inc/options.php:280 inc/shortcodes.php:2655 inc/shortcodes.php:2785
+#: inc/shortcodes.php:3271 inc/shortcodes.php:4291
+msgid "Setup Subscriptions"
+msgstr ""
+
+#: inc/options.php:297
+msgid "My Subscriptions"
+msgstr ""
+
+#: inc/options.php:307
+msgid "My Content"
+msgstr ""
+
+#: inc/options.php:321
+msgid "Settings"
+msgstr ""
+
+#: inc/options.php:1225
+msgid "Reset Options"
+msgstr ""
+
+#: inc/options.php:1360
+msgid "Add Package"
+msgstr ""
+
+#: inc/options.php:1552
+msgid "Import Options"
+msgstr ""
+
+#: inc/options.php:1602
+msgid "Setup Pages"
+msgstr ""
+
+#: inc/options.php:1609
+msgid "Update Pages"
+msgstr ""
+
+#: inc/options.php:1722 paid-membership.php:2301 paid-membership.php:2315
+#: paid-membership.php:2323
+msgid "Downloads"
+msgstr ""
+
+#: inc/options.php:1800
+msgid "Uploads Path"
+msgstr ""
+
+#: inc/options.php:1801
+msgid ""
+"Path where video files will be stored. Make sure you use a location outside "
+"plugin folder to avoid losing files on updates and plugin uninstallation."
+msgstr ""
+
+#: inc/options.php:1806
+msgid "Plugin Integrations"
+msgstr ""
+
+#: inc/options.php:1822
+msgid "Show VideoWhisper Powered by"
+msgstr ""
+
+#: inc/options.php:1830
+msgid "Show a mention that items were posted with VideoWhisper plugin.\n"
+msgstr ""
+
+#: inc/options.php:1842
+msgid "Download Sharing"
+msgstr ""
+
+#: inc/options.php:1844
+msgid "Users allowed to upload and share files"
+msgstr ""
+
+#: inc/options.php:1846
+msgid ""
+"Who can share downloads: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+
+#: inc/options.php:1848
+msgid "Users allowed to directly publish downloads"
+msgstr ""
+
+#: inc/options.php:1850
+msgid "Users not in this list will add downloads as \"pending\"."
+msgstr ""
+
+#: inc/options.php:1851
+msgid ""
+"Who can publish items: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+
+#: inc/options.php:1854
+msgid "Default Downloads Per Page"
+msgstr ""
+
+#: inc/options.php:1858
+msgid "Thumbnail Width"
+msgstr ""
+
+#: inc/options.php:1861
+msgid "Thumbnail Height"
+msgstr ""
+
+#: inc/options.php:2547
+msgid "Default Content Listings Per Page"
+msgstr ""
+
+#: inc/options.php:2688
+msgid "Balance"
+msgstr ""
+
+#: inc/options.php:2771
+msgid "Apply Adjustment"
+msgstr ""
+
+#: inc/options.php:2778
+msgid "Transactions For All Users"
+msgstr ""
+
+#: inc/options.php:2782
+msgid "All User Balances"
+msgstr ""
+
+#: inc/shortcodes.php:533 inc/shortcodes.php:536 inc/shortcodes.php:538
+#: inc/shortcodes.php:540 inc/shortcodes.php:546 inc/shortcodes.php:549
+msgid "Loading content"
+msgstr ""
+
+#: inc/shortcodes.php:533 inc/shortcodes.php:549 inc/shortcodes.php:671
+#: paid-membership.php:703
+msgid "All"
+msgstr ""
+
+#: inc/shortcodes.php:536
+msgid "Videos"
+msgstr ""
+
+#: inc/shortcodes.php:538
+msgid "Pictures"
+msgstr ""
+
+#: inc/shortcodes.php:540
+msgid "Products"
+msgstr ""
+
+#: inc/shortcodes.php:545
+msgid "premium"
+msgstr ""
+
+#: inc/shortcodes.php:545
+msgid "subscription"
+msgstr ""
+
+#: inc/shortcodes.php:545
+msgid "paid"
+msgstr ""
+
+#: inc/shortcodes.php:545
+msgid "free"
+msgstr ""
+
+#: inc/shortcodes.php:592 inc/shortcodes.php:2576 inc/shortcodes.php:3608
+#: paid-membership.php:1128 paid-membership.php:1277
+msgid "Category"
+msgstr ""
+
+#: inc/shortcodes.php:597 inc/shortcodes.php:601
+msgid "Loading category"
+msgstr ""
+
+#: inc/shortcodes.php:597
+msgid "All Categories"
+msgstr ""
+
+#: inc/shortcodes.php:613
+msgid "Added Recently"
+msgstr ""
+
+#: inc/shortcodes.php:614 inc/shortcodes.php:687 paid-membership.php:721
+msgid "Random"
+msgstr ""
+
+#: inc/shortcodes.php:618 inc/shortcodes.php:623 inc/shortcodes.php:682
+#: paid-membership.php:716
+msgid "Rating"
+msgstr ""
+
+#: inc/shortcodes.php:619 inc/shortcodes.php:624 inc/shortcodes.php:683
+#: paid-membership.php:717
+msgid "Ratings Number"
+msgstr ""
+
+#: inc/shortcodes.php:620 inc/shortcodes.php:625 inc/shortcodes.php:684
+#: paid-membership.php:718
+msgid "Rate Popularity"
+msgstr ""
+
+#: inc/shortcodes.php:623 inc/shortcodes.php:624 inc/shortcodes.php:625
+msgid "in Category"
+msgstr ""
+
+#: inc/shortcodes.php:634 inc/shortcodes.php:678 paid-membership.php:492
+#: paid-membership.php:710
+msgid "Order By"
+msgstr ""
+
+#: inc/shortcodes.php:641
+msgid "Ordering Rooms"
+msgstr ""
+
+#: inc/shortcodes.php:679 paid-membership.php:711
+msgid "Date Added"
+msgstr ""
+
+#: inc/shortcodes.php:695 paid-membership.php:730 paid-membership.php:1147
+#: paid-membership.php:1296
+msgid "Tags"
+msgstr ""
+
+#: inc/shortcodes.php:700 inc/shortcodes.php:1473 inc/shortcodes.php:1474
+#: paid-membership.php:735
+msgid "Name"
+msgstr ""
+
+#: inc/shortcodes.php:708 paid-membership.php:743
+msgid "Search"
+msgstr ""
+
+#: inc/shortcodes.php:713 paid-membership.php:748
+msgid "Reload"
+msgstr ""
+
+#: inc/shortcodes.php:734 inc/shortcodes.php:2567 inc/shortcodes.php:3634
+#: inc/shortcodes.php:3637 inc/shortcodes.php:3640 paid-membership.php:480
+#: paid-membership.php:772
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes.php:734 paid-membership.php:772
+msgid "Age"
+msgstr ""
+
+#: inc/shortcodes.php:759 inc/shortcodes.php:3196
+msgid "Subscription"
+msgstr ""
+
+#: inc/shortcodes.php:772 inc/shortcodes.php:3197 paid-membership.php:2702
+msgid "Edit"
+msgstr ""
+
+#: inc/shortcodes.php:788
+msgid "No content."
+msgstr ""
+
+#: inc/shortcodes.php:796 paid-membership.php:833
+msgid "Previous"
+msgstr ""
+
+#: inc/shortcodes.php:799 paid-membership.php:836
+msgid "Page"
+msgstr ""
+
+#: inc/shortcodes.php:802 paid-membership.php:839
+msgid "Next"
+msgstr ""
+
+#: inc/shortcodes.php:919
+msgid "Tokens Package"
+msgstr ""
+
+#: inc/shortcodes.php:1055
+msgid "Already subscribed!"
+msgstr ""
+
+#: inc/shortcodes.php:1060
+msgid "Not enough funds!"
+msgstr ""
+
+#: inc/shortcodes.php:1064
+msgid "Subscribed to"
+msgstr ""
+
+#: inc/shortcodes.php:1067
+msgid "New subscription from"
+msgstr ""
+
+#: inc/shortcodes.php:1102
+msgid "subscribed to"
+msgstr ""
+
+#: inc/shortcodes.php:1119
+msgid "Subscription was setup."
+msgstr ""
+
+#: inc/shortcodes.php:1148
+msgid "Subscription not found!"
+msgstr ""
+
+#: inc/shortcodes.php:1157
+msgid "Renewal was cancelled."
+msgstr ""
+
+#: inc/shortcodes.php:1180 inc/shortcodes.php:1410
+msgid "Login to Manage!"
+msgstr ""
+
+#: inc/shortcodes.php:1180 inc/shortcodes.php:1410 inc/shortcodes.php:1647
+#: inc/shortcodes.php:2381 inc/shortcodes.php:2821 inc/shortcodes.php:4448
+#: inc/shortcodes.php:4546 inc/shortcodes.php:4671 paid-membership.php:994
+#: paid-membership.php:2801 paid-membership.php:2942 paid-membership.php:3034
+msgid "Login"
+msgstr ""
+
+#: inc/shortcodes.php:1180 inc/shortcodes.php:1410 inc/shortcodes.php:1647
+#: inc/shortcodes.php:2381 inc/shortcodes.php:2821 inc/shortcodes.php:4448
+#: inc/shortcodes.php:4546 inc/shortcodes.php:4671 paid-membership.php:994
+#: paid-membership.php:2801 paid-membership.php:2942 paid-membership.php:3034
+msgid "Register"
+msgstr ""
+
+#: inc/shortcodes.php:1206 inc/shortcodes.php:1342
+msgid "Until"
+msgstr ""
+
+#: inc/shortcodes.php:1206 inc/shortcodes.php:1342
+msgid "Recurring"
+msgstr ""
+
+#: inc/shortcodes.php:1215 inc/shortcodes.php:1351 inc/shortcodes.php:1722
+msgid "Cancel"
+msgstr ""
+
+#: inc/shortcodes.php:1215 inc/shortcodes.php:1351
+msgid "One Time"
+msgstr ""
+
+#: inc/shortcodes.php:1229 inc/shortcodes.php:1353 inc/shortcodes.php:1364
+#: paid-membership.php:2761
+msgid "tier"
+msgstr ""
+
+#: inc/shortcodes.php:1232
+msgid ""
+"You have no subscriptions, yet. If you subscribe to any creators, your "
+"subscriptions will show here."
+msgstr ""
+
+#: inc/shortcodes.php:1358
+msgid "Premium content can be accessed by subscription."
+msgstr ""
+
+#: inc/shortcodes.php:1375
+msgid "Subscribe"
+msgstr ""
+
+#: inc/shortcodes.php:1386
+msgid "Buy"
+msgstr ""
+
+#: inc/shortcodes.php:1392 inc/shortcodes.php:1507 inc/shortcodes.php:2655
+msgid "Higher tier subscriptions include access to content from lower tiers."
+msgstr ""
+
+#: inc/shortcodes.php:1477 inc/shortcodes.php:1478 inc/shortcodes.php:3196
+msgid "Price"
+msgstr ""
+
+#: inc/shortcodes.php:1481 paid-membership.php:2801 paid-membership.php:2828
+#: paid-membership.php:2848 paid-membership.php:2861 paid-membership.php:2868
+#: paid-membership.php:2887 paid-membership.php:2890 paid-membership.php:2892
+#: paid-membership.php:2908 paid-membership.php:2925
+msgid "Duration"
+msgstr ""
+
+#: inc/shortcodes.php:1492 inc/shortcodes.php:3675 paid-membership.php:1165
+#: paid-membership.php:1167 paid-membership.php:1314 paid-membership.php:1316
+msgid "Description"
+msgstr ""
+
+#: inc/shortcodes.php:1496
+msgid "Remove"
+msgstr ""
+
+#: inc/shortcodes.php:1507 inc/shortcodes.php:2782 inc/shortcodes.php:4275
+#: paid-membership.php:2705
+msgid "My Assets"
+msgstr ""
+
+#: inc/shortcodes.php:1598 inc/shortcodes.php:2711
+msgid "Crowdfunding"
+msgstr ""
+
+#: inc/shortcodes.php:1599
+msgid "Funders"
+msgstr ""
+
+#: inc/shortcodes.php:1647
+msgid "Login to Donate"
+msgstr ""
+
+#: inc/shortcodes.php:1695 inc/shortcodes.php:1704 inc/shortcodes.php:1721
+msgid "Donate"
+msgstr ""
+
+#: inc/shortcodes.php:1739
+msgid "Fund"
+msgstr ""
+
+#: inc/shortcodes.php:1739
+msgid "Donate to"
+msgstr ""
+
+#: inc/shortcodes.php:1803
+msgid "Donation"
+msgstr ""
+
+#: inc/shortcodes.php:1804
+msgid "donated"
+msgstr ""
+
+#: inc/shortcodes.php:1809
+msgid "Funding"
+msgstr ""
+
+#: inc/shortcodes.php:1810
+msgid "funded"
+msgstr ""
+
+#: inc/shortcodes.php:1815
+msgid "Not enough funds available to make donation!"
+msgstr ""
+
+#: inc/shortcodes.php:1864
+msgid "completed"
+msgstr ""
+
+#: inc/shortcodes.php:1865
+msgid "Reload page to see update!"
+msgstr ""
+
+#: inc/shortcodes.php:2000
+msgid "added a new product"
+msgstr ""
+
+#: inc/shortcodes.php:2095
+msgid "Product was updated."
+msgstr ""
+
+#: inc/shortcodes.php:2357
+msgid "ERROR: Missing "
+msgstr ""
+
+#: inc/shortcodes.php:2361
+msgid "ERROR: Upload copy failed. File does not exist "
+msgstr ""
+
+#: inc/shortcodes.php:2364
+msgid "ERROR: Could not retrieve image size for "
+msgstr ""
+
+#: inc/shortcodes.php:2428
+msgid "Editing"
+msgstr ""
+
+#: inc/shortcodes.php:2467
+msgid "Coauthor removed:"
+msgstr ""
+
+#: inc/shortcodes.php:2481
+msgid "Coauthor user not found:"
+msgstr ""
+
+#: inc/shortcodes.php:2494
+msgid "Total coauthor percent exceeds 100%:"
+msgstr ""
+
+#: inc/shortcodes.php:2498
+msgid "Coauthor added:"
+msgstr ""
+
+#: inc/shortcodes.php:2578 inc/shortcodes.php:3667 paid-membership.php:1149
+#: paid-membership.php:1298
+msgid "Tag(s)"
+msgstr ""
+
+#: inc/shortcodes.php:2582
+msgid "Description Content"
+msgstr ""
+
+#: inc/shortcodes.php:2607
+msgid "Featured Image (Optional)"
+msgstr ""
+
+#: inc/shortcodes.php:2620
+msgid "Remove Image(s)"
+msgstr ""
+
+#: inc/shortcodes.php:2625
+msgid "Comments"
+msgstr ""
+
+#: inc/shortcodes.php:2626
+msgid "Open"
+msgstr ""
+
+#: inc/shortcodes.php:2627
+msgid "Closed"
+msgstr ""
+
+#: inc/shortcodes.php:2631 inc/shortcodes.php:2633 inc/shortcodes.php:3178
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:213
+msgid "Status"
+msgstr ""
+
+#: inc/shortcodes.php:2631
+msgid "Pending Review"
+msgstr ""
+
+#: inc/shortcodes.php:2634
+msgid "Public"
+msgstr ""
+
+#: inc/shortcodes.php:2635
+msgid "Private"
+msgstr ""
+
+#: inc/shortcodes.php:2636
+msgid "Draft"
+msgstr ""
+
+#: inc/shortcodes.php:2637
+msgid "Trash"
+msgstr ""
+
+#: inc/shortcodes.php:2638
+msgid ""
+"Move item to Trash for removal. Trash can be permanently removed by admins."
+msgstr ""
+
+#: inc/shortcodes.php:2642 inc/shortcodes.php:3179
+msgid "Monetization"
+msgstr ""
+
+#: inc/shortcodes.php:2646
+msgid "Subscription Tier"
+msgstr ""
+
+#: inc/shortcodes.php:2647
+msgid "None"
+msgstr ""
+
+#: inc/shortcodes.php:2665
+msgid "Sell Price"
+msgstr ""
+
+#: inc/shortcodes.php:2666
+msgid ""
+"Users need to pay this price to access this content. Set 0 for free access "
+"or by subscription. An individual price can also be configured for "
+"subscription items: If content is part of a subscription tier, client can "
+"opt to get the author subscription instead of purchasing content "
+"individually."
+msgstr ""
+
+#: inc/shortcodes.php:2669
+msgid "Access Duration"
+msgstr ""
+
+#: inc/shortcodes.php:2671
+msgid ""
+"Set 720 for 30 days, 336 for 2 weeks, 168 for 1 week, 24 for 1 day, 0 for "
+"unlimited time access (one time fee)."
+msgstr ""
+
+#: inc/shortcodes.php:2682 paid-membership.php:2666
+msgid "Coauthors"
+msgstr ""
+
+#: inc/shortcodes.php:2696
+msgid "Check and save to remove coauthors. Total distributed:"
+msgstr ""
+
+#: inc/shortcodes.php:2701
+msgid "Add New Coauthor"
+msgstr ""
+
+#: inc/shortcodes.php:2702
+msgid "Username or email of user"
+msgstr ""
+
+#: inc/shortcodes.php:2702
+msgid "Username or email of user to share earnings with."
+msgstr ""
+
+#: inc/shortcodes.php:2702
+msgid "Percent"
+msgstr ""
+
+#: inc/shortcodes.php:2702
+msgid ""
+"Percent of earnings to share with coauthor. Sum of all coauthor percents "
+"should not be over 100."
+msgstr ""
+
+#: inc/shortcodes.php:2707
+msgid "Donations"
+msgstr ""
+
+#: inc/shortcodes.php:2708
+msgid "Enabled"
+msgstr ""
+
+#: inc/shortcodes.php:2709
+msgid "Disabled"
+msgstr ""
+
+#: inc/shortcodes.php:2710
+msgid "Goal"
+msgstr ""
+
+#: inc/shortcodes.php:2712
+msgid ""
+"Goal will show progress and Crowdfunding will also publicly list all funders."
+msgstr ""
+
+#: inc/shortcodes.php:2714
+msgid "Goal Amount"
+msgstr ""
+
+#: inc/shortcodes.php:2718
+msgid "Goal Name"
+msgstr ""
+
+#: inc/shortcodes.php:2722
+msgid "Goal Description"
+msgstr ""
+
+#: inc/shortcodes.php:2724
+msgid "Crowdfunding Stake"
+msgstr ""
+
+#: inc/shortcodes.php:2725
+msgid "Crowdfunding percent for backers."
+msgstr ""
+
+#: inc/shortcodes.php:2772
+msgid "More"
+msgstr ""
+
+#: inc/shortcodes.php:2775 inc/shortcodes.php:3201 inc/shortcodes.php:3204
+msgid "Announce"
+msgstr ""
+
+#: inc/shortcodes.php:2775
+msgid "PeepSo Stream"
+msgstr ""
+
+#: inc/shortcodes.php:2778
+msgid "Share this on your activity feed"
+msgstr ""
+
+#: inc/shortcodes.php:2778
+msgid "Share to Feed"
+msgstr ""
+
+#: inc/shortcodes.php:2853 inc/shortcodes.php:4275
+msgid "My Digital Content Assets"
+msgstr ""
+
+#: inc/shortcodes.php:2900 inc/shortcodes.php:3201 inc/shortcodes.php:3204
+#: inc/shortcodes.php:3256 inc/shortcodes.php:4279
+msgid "Post Update"
+msgstr ""
+
+#: inc/shortcodes.php:2924
+msgid "Include Thumbnail"
+msgstr ""
+
+#: inc/shortcodes.php:2928
+msgid "Mention Other Assets"
+msgstr ""
+
+#: inc/shortcodes.php:2954
+msgid "Post to Feed"
+msgstr ""
+
+#: inc/shortcodes.php:3077
+msgid "Posted Update"
+msgstr ""
+
+#: inc/shortcodes.php:3177
+msgid "Asset"
+msgstr ""
+
+#: inc/shortcodes.php:3178
+msgid "Type"
+msgstr ""
+
+#: inc/shortcodes.php:3178
+msgid "Updated"
+msgstr ""
+
+#: inc/shortcodes.php:3180
+msgid "Action"
+msgstr ""
+
+#: inc/shortcodes.php:3237
+msgid "Set Subscription"
+msgstr ""
+
+#: inc/shortcodes.php:3239
+msgid "Set Price"
+msgstr ""
+
+#: inc/shortcodes.php:3251
+msgid "You have no digital content assets, yet."
+msgstr ""
+
+#: inc/shortcodes.php:3256 inc/shortcodes.php:4279
+msgid "PeepSo"
+msgstr ""
+
+#: inc/shortcodes.php:3259 inc/shortcodes.php:4282 paid-membership.php:82
+msgid "Share available content to activity feed"
+msgstr ""
+
+#: inc/shortcodes.php:3259 inc/shortcodes.php:4282 paid-membership.php:82
+msgid "Share Content"
+msgstr ""
+
+#: inc/shortcodes.php:3263 paid-membership.php:79
+msgid "Upload New Content"
+msgstr ""
+
+#: inc/shortcodes.php:3267 inc/shortcodes.php:4287
+msgid "Record"
+msgstr ""
+
+#: inc/shortcodes.php:3274
+msgid "This page displays your digital content assets."
+msgstr ""
+
+#: inc/shortcodes.php:3318
+msgid ""
+"Please login to upload content. Visitor uploads are currently disabled from "
+"backend settings."
+msgstr ""
+
+#: inc/shortcodes.php:3334
+msgid "Accepting Terms of Use is required."
+msgstr ""
+
+#: inc/shortcodes.php:3338
+msgid "Nonce incorrect for content upload."
+msgstr ""
+
+#: inc/shortcodes.php:3350
+msgid "Uploads per IP limit reached."
+msgstr ""
+
+#: inc/shortcodes.php:3646
+msgid "Gallery(s)"
+msgstr ""
+
+#: inc/shortcodes.php:3646 inc/shortcodes.php:3667
+msgid "comma separated"
+msgstr ""
+
+#: inc/shortcodes.php:3660
+msgid "Email"
+msgstr ""
+
+#: inc/shortcodes.php:3696
+msgid "Could not submit upload"
+msgstr ""
+
+#: inc/shortcodes.php:4469 paid-membership.php:2509
+msgid "Lifetime"
+msgstr ""
+
+#: inc/shortcodes.php:4469
+msgid "until"
+msgstr ""
+
+#: inc/shortcodes.php:4509
+msgid ""
+"No purchases, yet. This section displays your digital content purchases, for "
+"easy access."
+msgstr ""
+
+#: inc/shortcodes.php:4518
+msgid "Login for Wallet"
+msgstr ""
+
+#: inc/shortcodes.php:4546
+msgid "Login to manage wallet!"
+msgstr ""
+
+#: inc/shortcodes.php:4556
+msgid "Active balance"
+msgstr ""
+
+#: inc/shortcodes.php:4557
+msgid "All Balances"
+msgstr ""
+
+#: inc/shortcodes.php:4609
+msgid "MicroPayments: Transactions"
+msgstr ""
+
+#: inc/shortcodes.php:4621
+msgid "MyCred: Transactions"
+msgstr ""
+
+#: inc/shortcodes.php:4640
+msgid "TeraWallet: Transactions"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:201
+msgid "Select files"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:202
+msgid "Add files to the upload queue and click the start button."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:204
+msgid "List"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:205
+msgid "Thumbnails"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:212
+msgid "Filename"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:214
+msgid "Size"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:220
+msgid "Drag files here."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:229
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:942
+msgid "Add Files"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:230
+msgid "Start Upload"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:231
+msgid "Stop Upload"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:448
+msgid "File count error."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:468
+#, javascript-format
+msgid "File: %s"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:472
+#, javascript-format
+msgid "File: %s, size: %d, max file size: %d"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:476
+#, javascript-format
+msgid "%s already present in the queue."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:480
+#, javascript-format
+msgid ""
+"Upload element accepts only %d file(s) at a time. Extra files were stripped."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:484
+msgid "Image format either wrong or not supported."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:488
+msgid "Runtime ran out of available memory."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:497
+msgid "Upload URL might be wrong or doesn't exist."
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:834
+msgid "Close"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:913
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:1026
+#, javascript-format
+msgid "Uploaded %d/%d files"
+msgstr ""
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:944
+#, javascript-format
+msgid "%d files queued"
+msgstr ""
+
+#: paid-membership.php:153
+msgid "Author Content"
+msgstr ""
+
+#: paid-membership.php:157
+msgid "Subscribe to Author"
+msgstr ""
+
+#: paid-membership.php:363
+msgid "Made a Donation"
+msgstr ""
+
+#: paid-membership.php:369
+msgid "Added a product"
+msgstr ""
+
+#: paid-membership.php:375
+msgid "Added content"
+msgstr ""
+
+#: paid-membership.php:381
+msgid "Subscribed to author "
+msgstr ""
+
+#: paid-membership.php:484 paid-membership.php:2254
+msgid "Collection"
+msgstr ""
+
+#: paid-membership.php:488
+msgid "Category ID"
+msgstr ""
+
+#: paid-membership.php:494
+msgid "Date"
+msgstr ""
+
+#: paid-membership.php:495 paid-membership.php:712 paid-membership.php:772
+msgid "Views"
+msgstr ""
+
+#: paid-membership.php:496
+msgid "Recently Watched"
+msgstr ""
+
+#: paid-membership.php:499
+msgid "Downloads per Page"
+msgstr ""
+
+#: paid-membership.php:503
+msgid "Downloads per Row"
+msgstr ""
+
+#: paid-membership.php:507
+msgid "Category Selector"
+msgstr ""
+
+#: paid-membership.php:513
+msgid "Tags Selector"
+msgstr ""
+
+#: paid-membership.php:519
+msgid "Name Selector"
+msgstr ""
+
+#: paid-membership.php:525
+msgid "Order Selector"
+msgstr ""
+
+#: paid-membership.php:531
+msgid "Page Selector"
+msgstr ""
+
+#: paid-membership.php:537
+msgid "Include CSS"
+msgstr ""
+
+#: paid-membership.php:713
+msgid "Viewed Recently"
+msgstr ""
+
+#: paid-membership.php:773
+msgid "views"
+msgstr ""
+
+#: paid-membership.php:798
+msgid "EDIT"
+msgstr ""
+
+#: paid-membership.php:825
+msgid "No downloads."
+msgstr ""
+
+#: paid-membership.php:1034
+msgid "Download"
+msgstr ""
+
+#: paid-membership.php:1087
+msgid "Login is required to import downloads!"
+msgstr ""
+
+#: paid-membership.php:1095 paid-membership.php:1248 paid-membership.php:1536
+msgid "Downloads are disabled from plugin settings!"
+msgstr ""
+
+#: paid-membership.php:1099 paid-membership.php:1252 paid-membership.php:1682
+msgid "You do not have permissions to share downloads!"
+msgstr ""
+
+#: paid-membership.php:1132 paid-membership.php:1136 paid-membership.php:1281
+#: paid-membership.php:1285
+msgid "collection"
+msgstr ""
+
+#: paid-membership.php:1134
+msgid "(comma separated)"
+msgstr ""
+
+#: paid-membership.php:1157 paid-membership.php:1306
+msgid "Picture"
+msgstr ""
+
+#: paid-membership.php:1173
+msgid "Import downloads"
+msgstr ""
+
+#: paid-membership.php:1201
+msgid "Default"
+msgstr ""
+
+#: paid-membership.php:1222
+msgid "Install Picture Gallery plugin"
+msgstr ""
+
+#: paid-membership.php:1234
+msgid "Login is required to add downloads!"
+msgstr ""
+
+#: paid-membership.php:1283
+msgid "Collection(s)"
+msgstr ""
+
+#: paid-membership.php:1343
+msgid ""
+"or Drag & Drop files to this upload area<br>(select rest of options first)"
+msgstr ""
+
+#: paid-membership.php:1349
+msgid "Upload Files"
+msgstr ""
+
+#: paid-membership.php:1364
+msgid "Add Download: File Upload"
+msgstr ""
+
+#: paid-membership.php:1364
+msgid "Files to upload"
+msgstr ""
+
+#: paid-membership.php:1373
+msgid "Supported Extensions"
+msgstr ""
+
+#: paid-membership.php:1792
+msgid "Download was submitted and is pending approval."
+msgstr ""
+
+#: paid-membership.php:1794
+msgid "Download was published"
+msgstr ""
+
+#: paid-membership.php:2235 paid-membership.php:2245
+msgid "Channel"
+msgstr ""
+
+#: paid-membership.php:2264
+msgid "Download Views"
+msgstr ""
+
+#: paid-membership.php:2270
+msgid "My Review"
+msgstr ""
+
+#: paid-membership.php:2276
+msgid "Reviews"
+msgstr ""
+
+#: paid-membership.php:2299
+msgctxt "Post Type General Name"
+msgid "Downloads"
+msgstr ""
+
+#: paid-membership.php:2300
+msgctxt "Post Type Singular Name"
+msgid "Download"
+msgstr ""
+
+#: paid-membership.php:2302
+msgid "Parent Download:"
+msgstr ""
+
+#: paid-membership.php:2303
+msgid "All Downloads"
+msgstr ""
+
+#: paid-membership.php:2304
+msgid "View Download"
+msgstr ""
+
+#: paid-membership.php:2305
+msgid "Add New Download"
+msgstr ""
+
+#: paid-membership.php:2306
+msgid "New Download"
+msgstr ""
+
+#: paid-membership.php:2307
+msgid "Edit Download"
+msgstr ""
+
+#: paid-membership.php:2308
+msgid "Update Download"
+msgstr ""
+
+#: paid-membership.php:2309
+msgid "Search Downloads"
+msgstr ""
+
+#: paid-membership.php:2310
+msgid "No Downloads found"
+msgstr ""
+
+#: paid-membership.php:2311
+msgid "No Downloads found in Trash"
+msgstr ""
+
+#: paid-membership.php:2314
+msgid "New download published"
+msgstr ""
+
+#: paid-membership.php:2316
+#, php-format
+msgid "%1$s posted a new <a href=\"%2$s\">download</a>"
+msgstr ""
+
+#: paid-membership.php:2317
+#, php-format
+msgid "%1$s posted a new <a href=\"%2$s\">download</a>, on the site %3$s"
+msgstr ""
+
+#: paid-membership.php:2322
+msgid "download"
+msgstr ""
+
+#: paid-membership.php:2358
+msgctxt "taxonomy general name"
+msgid "Collections"
+msgstr ""
+
+#: paid-membership.php:2359
+msgctxt "taxonomy singular name"
+msgid "Collection"
+msgstr ""
+
+#: paid-membership.php:2360
+msgid "Search Collections"
+msgstr ""
+
+#: paid-membership.php:2361
+msgid "All Collections"
+msgstr ""
+
+#: paid-membership.php:2362
+msgid "Parent Collection"
+msgstr ""
+
+#: paid-membership.php:2363
+msgid "Parent Collection:"
+msgstr ""
+
+#: paid-membership.php:2364
+msgid "Edit Collection"
+msgstr ""
+
+#: paid-membership.php:2365
+msgid "Update Collection"
+msgstr ""
+
+#: paid-membership.php:2366
+msgid "Add New Collection"
+msgstr ""
+
+#: paid-membership.php:2367
+msgid "New Collection Name"
+msgstr ""
+
+#: paid-membership.php:2368
+msgid "Collections"
+msgstr ""
+
+#: paid-membership.php:2489
+msgid "One time"
+msgstr ""
+
+#: paid-membership.php:2492
+msgid "Weekly"
+msgstr ""
+
+#: paid-membership.php:2495
+msgid "Biweekly"
+msgstr ""
+
+#: paid-membership.php:2498
+msgid "Monthly"
+msgstr ""
+
+#: paid-membership.php:2501
+msgid "Yearly"
+msgstr ""
+
+#: paid-membership.php:2512
+msgid "1 Week"
+msgstr ""
+
+#: paid-membership.php:2515
+msgid "2 Weeks"
+msgstr ""
+
+#: paid-membership.php:2518
+msgid "1 Month"
+msgstr ""
+
+#: paid-membership.php:2521
+msgid "1 Year"
+msgstr ""
+
+#: paid-membership.php:2531
+msgid "lifetime"
+msgstr ""
+
+#: paid-membership.php:2533
+msgid "hours"
+msgstr ""
+
+#: paid-membership.php:2552
+msgid "As content owner, you can add unlimited comments."
+msgstr ""
+
+#: paid-membership.php:2569
+msgid "You can not add more comments. Comments limit:"
+msgstr ""
+
+#: paid-membership.php:2583
+msgid "Comments are shown."
+msgstr ""
+
+#: paid-membership.php:2588
+msgid "Comments are also hidden, with content."
+msgstr ""
+
+#: paid-membership.php:2644
+msgid "Author"
+msgstr ""
+
+#: paid-membership.php:2657
+msgid "You removed yourself from coauthors."
+msgstr ""
+
+#: paid-membership.php:2680
+msgid "Remove me as coauthor"
+msgstr ""
+
+#: paid-membership.php:2710
+msgid "You are the owner of this content."
+msgstr ""
+
+#: paid-membership.php:2738
+msgid "You have access to this content, by subscription."
+msgstr ""
+
+#: paid-membership.php:2759
+msgid "This content is available with author subscription."
+msgstr ""
+
+#: paid-membership.php:2767
+msgid "See Subscriptions"
+msgstr ""
+
+#: paid-membership.php:2801 paid-membership.php:2828 paid-membership.php:2887
+#: paid-membership.php:2890 paid-membership.php:2892 paid-membership.php:2908
+#: paid-membership.php:2925
+msgid "Access Price"
+msgstr ""
+
+#: paid-membership.php:2828
+msgid "You already purchased this content."
+msgstr ""
+
+#: paid-membership.php:2836
+msgid "Insufficient funds!"
+msgstr ""
+
+#: paid-membership.php:2887
+msgid "Accessing as content owner."
+msgstr ""
+
+#: paid-membership.php:2887 paid-membership.php:2890 paid-membership.php:2892
+msgid "Other users can see this content after purchasing access."
+msgstr ""
+
+#: paid-membership.php:2890 paid-membership.php:2995 paid-membership.php:3006
+msgid "Accessing as moderator."
+msgstr ""
+
+#: paid-membership.php:2892 paid-membership.php:2997 paid-membership.php:3008
+msgid "Accessing as coauthor."
+msgstr ""
+
+#: paid-membership.php:2908
+msgid "You purchased this content."
+msgstr ""
+
+#: paid-membership.php:2916
+msgid "Insufficient Funds"
+msgstr ""
+
+#: paid-membership.php:2919
+msgid "Purchase Access"
+msgstr ""
+
+#: paid-membership.php:2942 paid-membership.php:2948
+msgid "View Product"
+msgstr ""
+
+#: paid-membership.php:2948
+msgid "Other users can see your content after purchasing access product."
+msgstr ""
+
+#: paid-membership.php:2982
+msgid "You purchased this content product."
+msgstr ""
+
+#: paid-membership.php:2986
+msgid "Buy Product"
+msgstr ""
+
+#: paid-membership.php:2995 paid-membership.php:2997
+msgid "Other users can see this content with subscription."
+msgstr ""
+
+#: paid-membership.php:3006 paid-membership.php:3008
+msgid "This content is free."
+msgstr ""
+
+#: paid-membership.php:3336
+msgid "Transfer to Active Balance"
+msgstr ""
+
+#: paid-membership.php:3336 paid-membership.php:3340
+msgid "Transfer to"
+msgstr ""
+
+#: paid-membership.php:3340
+msgid "Transfer to Secondary Balance"
+msgstr ""
+
+#: paid-membership.php:3346
+msgid "Transferred to active balance."
+msgstr ""
+
+#: paid-membership.php:3352
+msgid "Transferred to secondary balance."
+msgstr ""
+
+#: paid-membership.php:3399 paid-membership.php:3400
+msgid "Wallet balance transfer"
+msgstr ""
+
+#: template-download.php:50
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid ""
+"MicroPayments - Paid Author Subscriptions, Digital Assets, Downloads, "
+"Membership"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ppvscript.com/micropayments/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "VideoWhisper Full"
+msgstr ""

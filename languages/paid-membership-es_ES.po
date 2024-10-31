@@ -1,0 +1,1425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-29 18:11+0300\n"
+"PO-Revision-Date: 2021-10-12 14:26+0300\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/options.php:75
+msgid "Add Plugins"
+msgstr "Agregar complementos"
+
+#: inc/options.php:84
+msgid "Contact Support"
+msgstr "Contactar Soporte"
+
+#: inc/options.php:96
+#, fuzzy
+msgid "MicroPayments"
+msgstr "Micropagos"
+
+#: inc/options.php:105
+msgid "Transactions"
+msgstr "Transacciones"
+
+#: inc/options.php:115
+#, fuzzy
+msgid "Frontend Pages"
+msgstr "Páginas frontend"
+
+#: inc/options.php:126
+#, fuzzy
+msgid "Billing Wallets"
+msgstr "Carteras de facturación"
+
+#: inc/options.php:136
+#, fuzzy
+msgid "Paid Content"
+msgstr "Contenido de pago"
+
+#: inc/options.php:145
+#, fuzzy
+msgid "Token Packages"
+msgstr "Paquetes de tokens"
+
+#: inc/options.php:154
+#, fuzzy
+msgid "Author Subscriptions"
+msgstr "Suscripciones de autor"
+
+#: inc/options.php:163
+#, fuzzy
+msgid "Donations Funding"
+msgstr "Financiación de donaciones"
+
+#: inc/options.php:172
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/options.php:189
+msgid "My Wallet"
+msgstr "Mi Monedero"
+
+#: inc/options.php:205 inc/shortcodes.php:1050 inc/shortcodes.php:1938
+#: inc/shortcodes.php:2594 inc/shortcodes.php:2621 paid-membership.php:2525
+#, fuzzy
+msgid "My Assets"
+msgstr "Mis activos"
+
+#: inc/options.php:218 inc/shortcodes.php:1883 inc/shortcodes.php:1941
+#: inc/shortcodes.php:2382
+#, fuzzy
+msgid "Setup Subscriptions"
+msgstr "Configurar suscripciones"
+
+#: inc/options.php:234
+msgid "My Content"
+msgstr "Mi Contenido"
+
+#: inc/options.php:248
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: inc/options.php:982
+msgid "Reset Options"
+msgstr "Restablecer opciones"
+
+#: inc/options.php:1114
+msgid "Add Package"
+msgstr "Agregar Paquete"
+
+#: inc/options.php:1277
+msgid "Import Options"
+msgstr "Opciones de importación"
+
+#: inc/options.php:1327
+msgid "Setup Pages"
+msgstr "Configurar páginas"
+
+#: inc/options.php:1334
+msgid "Update Pages"
+msgstr "Actualizar páginas"
+
+#: inc/options.php:1431 paid-membership.php:2237 paid-membership.php:2251
+#: paid-membership.php:2259
+msgid "Downloads"
+msgstr "Descargas"
+
+#: inc/options.php:1507
+#, fuzzy
+msgid "Uploads Path"
+msgstr "Ruta de carga"
+
+#: inc/options.php:1508
+#, fuzzy
+msgid ""
+"Path where video files will be stored. Make sure you use a location outside "
+"plugin folder to avoid losing files on updates and plugin uninstallation."
+msgstr ""
+"Ruta donde se almacenarán los archivos de video. Asegúrese de usar una "
+"ubicación fuera de la carpeta del complemento para evitar perder archivos en "
+"las actualizaciones y la desinstalación del complemento."
+
+#: inc/options.php:1513
+msgid "Plugin Integrations"
+msgstr "Integraciones de plugins"
+
+#: inc/options.php:1529
+#, fuzzy
+msgid "Show VideoWhisper Powered by"
+msgstr "Mostrar VideoWhisper Powered by"
+
+#: inc/options.php:1537
+#, fuzzy
+msgid "Show a mention that items were posted with VideoWhisper plugin.\n"
+msgstr ""
+"Muestre una mención de que los elementos se publicaron con el complemento "
+"VideoWhisper.\n"
+
+#: inc/options.php:1549
+#, fuzzy
+msgid "Download Sharing"
+msgstr "Descargar Compartir"
+
+#: inc/options.php:1551
+#, fuzzy
+msgid "Users allowed to upload and share files"
+msgstr "Usuarios autorizados a cargar y compartir archivos"
+
+#: inc/options.php:1553
+#, fuzzy
+msgid ""
+"Who can share downloads: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+"Quién puede compartir descargas: roles separados por comas, correos "
+"electrónicos de usuario, números de ID de usuario."
+
+#: inc/options.php:1554 inc/options.php:1560
+#, fuzzy
+msgid "\"Guest\" will allow everybody including guests (unregistered users)."
+msgstr ""
+"\"Invitado\" permitirá a todos, incluidos los invitados (usuarios no "
+"registrados)."
+
+#: inc/options.php:1556
+#, fuzzy
+msgid "Users allowed to directly publish downloads"
+msgstr "Usuarios autorizados a publicar directamente descargas"
+
+#: inc/options.php:1558
+#, fuzzy
+msgid "Users not in this list will add downloads as \"pending\"."
+msgstr ""
+"Los usuarios que no están en esta lista agregarán descargas como \"pendientes"
+"\"."
+
+#: inc/options.php:1559
+#, fuzzy
+msgid ""
+"Who can publish items: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+"Quién puede publicar elementos: roles separados por comas, correos "
+"electrónicos de usuario, números de ID de usuario."
+
+#: inc/options.php:1563
+#, fuzzy
+msgid "Default Downloads Per Page"
+msgstr "Descargas predeterminadas por página"
+
+#: inc/options.php:1567
+msgid "Thumbnail Width"
+msgstr "Anchura de la miniatura"
+
+#: inc/options.php:1570
+msgid "Thumbnail Height"
+msgstr "Altura de la miniatura"
+
+#: inc/options.php:2179
+#, fuzzy
+msgid "Default Content Listings Per Page"
+msgstr "Listados de contenido predeterminados por página"
+
+#: inc/options.php:2317
+msgid "Balance"
+msgstr "Balance"
+
+#: inc/options.php:2400
+#, fuzzy
+msgid "Apply Adjustment"
+msgstr "Aplicar ajuste"
+
+#: inc/options.php:2407
+#, fuzzy
+msgid "Transactions For All Users"
+msgstr "Transacciones para todos los usuarios"
+
+#: inc/options.php:2411
+#, fuzzy
+msgid "All User Balances"
+msgstr "Todos los saldos de usuario"
+
+#: inc/shortcodes.php:316 paid-membership.php:653
+msgid "All"
+msgstr "Todos"
+
+#: inc/shortcodes.php:323 paid-membership.php:442 paid-membership.php:660
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: inc/shortcodes.php:324 paid-membership.php:661
+msgid "Date Added"
+msgstr "Fecha de adición"
+
+#: inc/shortcodes.php:329 paid-membership.php:666
+msgid "Rating"
+msgstr "Clasificación"
+
+#: inc/shortcodes.php:330 paid-membership.php:667
+msgid "Ratings Number"
+msgstr "Número de clasificaciones"
+
+#: inc/shortcodes.php:331 paid-membership.php:668
+msgid "Rate Popularity"
+msgstr "Calificación popularidad"
+
+#: inc/shortcodes.php:334 paid-membership.php:671
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/shortcodes.php:342 inc/shortcodes.php:2466 paid-membership.php:680
+#: paid-membership.php:1096 paid-membership.php:1241
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/shortcodes.php:347 inc/shortcodes.php:1016 inc/shortcodes.php:1017
+#: paid-membership.php:685
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/shortcodes.php:355 paid-membership.php:693
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/shortcodes.php:360 paid-membership.php:698
+msgid "Reload"
+msgstr "Recargar"
+
+#: inc/shortcodes.php:381 inc/shortcodes.php:1841 paid-membership.php:430
+#: paid-membership.php:722
+msgid "Title"
+msgstr "Título"
+
+#: inc/shortcodes.php:381 paid-membership.php:722
+msgid "Age"
+msgstr "Edad"
+
+#: inc/shortcodes.php:406 inc/shortcodes.php:2314
+msgid "Subscription"
+msgstr "Suscripción"
+
+#: inc/shortcodes.php:419 inc/shortcodes.php:2315 paid-membership.php:2522
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/shortcodes.php:435
+#, fuzzy
+msgid "No content."
+msgstr "Sin contenido."
+
+#: inc/shortcodes.php:443 paid-membership.php:783
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/shortcodes.php:446 paid-membership.php:786
+msgid "Page"
+msgstr "Página"
+
+#: inc/shortcodes.php:449 paid-membership.php:789
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/shortcodes.php:561
+#, fuzzy
+msgid "Tokens Package"
+msgstr "Paquete de tokens"
+
+#: inc/shortcodes.php:697
+#, fuzzy
+msgid "Already subscribed!"
+msgstr "¡Ya suscrito!"
+
+#: inc/shortcodes.php:702
+#, fuzzy
+msgid "Not enough funds!"
+msgstr "¡No hay fondos suficientes!"
+
+#: inc/shortcodes.php:706
+msgid "Subscribed to"
+msgstr "Suscrito a"
+
+#: inc/shortcodes.php:709
+#, fuzzy
+msgid "New subscription from"
+msgstr "Nueva suscripción desde"
+
+#: inc/shortcodes.php:744
+msgid "subscribed to"
+msgstr "suscrito a"
+
+#: inc/shortcodes.php:761
+#, fuzzy
+msgid "Subscription was setup."
+msgstr "Se ha configurado la suscripción."
+
+#: inc/shortcodes.php:790
+msgid "Subscription not found!"
+msgstr "¡Suscripción no encontrada!"
+
+#: inc/shortcodes.php:799
+#, fuzzy
+msgid "Renewal was cancelled."
+msgstr "Se canceló la renovación."
+
+#: inc/shortcodes.php:905
+msgid "Until"
+msgstr "Hasta el"
+
+#: inc/shortcodes.php:905
+msgid "Recurring"
+msgstr "Recurrente"
+
+#: inc/shortcodes.php:914 inc/shortcodes.php:1262
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/shortcodes.php:914
+msgid "One Time"
+msgstr "Una vez"
+
+#: inc/shortcodes.php:917 inc/shortcodes.php:928 paid-membership.php:2580
+#, fuzzy
+msgid "tier"
+msgstr "nivel"
+
+#: inc/shortcodes.php:922
+#, fuzzy
+msgid "Premium content can be accessed by subscription."
+msgstr "Se puede acceder al contenido premium mediante suscripción."
+
+#: inc/shortcodes.php:939
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: inc/shortcodes.php:950
+msgid "Buy"
+msgstr "Comprar"
+
+#: inc/shortcodes.php:956 inc/shortcodes.php:1050 inc/shortcodes.php:1883
+#, fuzzy
+msgid "Higher tier subscriptions include access to content from lower tiers."
+msgstr ""
+"Las suscripciones de nivel superior incluyen acceso al contenido de niveles "
+"inferiores."
+
+#: inc/shortcodes.php:974
+#, fuzzy
+msgid "Login to Manage!"
+msgstr "¡Inicia sesión para gestionar llamadas!"
+
+#: inc/shortcodes.php:974 inc/shortcodes.php:1189 inc/shortcodes.php:1727
+#: inc/shortcodes.php:1977 inc/shortcodes.php:2891 inc/shortcodes.php:2988
+#: inc/shortcodes.php:3072 paid-membership.php:944 paid-membership.php:2610
+#: paid-membership.php:2690 paid-membership.php:2763
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: inc/shortcodes.php:974 inc/shortcodes.php:1189 inc/shortcodes.php:1727
+#: inc/shortcodes.php:1977 inc/shortcodes.php:2891 inc/shortcodes.php:2988
+#: inc/shortcodes.php:3072 paid-membership.php:944 paid-membership.php:2610
+#: paid-membership.php:2690 paid-membership.php:2763
+msgid "Register"
+msgstr "Registrarse"
+
+#: inc/shortcodes.php:1021 inc/shortcodes.php:2314
+msgid "Price"
+msgstr "Precio"
+
+#: inc/shortcodes.php:1024 paid-membership.php:2610 paid-membership.php:2627
+#: paid-membership.php:2628 paid-membership.php:2647 paid-membership.php:2660
+#: paid-membership.php:2674
+msgid "Duration"
+msgstr "Duración"
+
+#: inc/shortcodes.php:1035 inc/shortcodes.php:1853 inc/shortcodes.php:2474
+#: inc/shortcodes.php:2476 paid-membership.php:1114 paid-membership.php:1116
+#: paid-membership.php:1259 paid-membership.php:1261
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/shortcodes.php:1039
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/shortcodes.php:1141 inc/shortcodes.php:1896
+msgid "Crowdfunding"
+msgstr "Crowdfunding"
+
+#: inc/shortcodes.php:1142
+#, fuzzy
+msgid "Funders"
+msgstr "Financiadores"
+
+#: inc/shortcodes.php:1189
+#, fuzzy
+msgid "Login to Donate!"
+msgstr "¡Inicie sesión para donar!"
+
+#: inc/shortcodes.php:1235 inc/shortcodes.php:1244 inc/shortcodes.php:1261
+msgid "Donate"
+msgstr "Donar"
+
+#: inc/shortcodes.php:1279
+msgid "Fund"
+msgstr "Fondo"
+
+#: inc/shortcodes.php:1279
+#, fuzzy
+msgid "Donate to"
+msgstr "Donar a"
+
+#: inc/shortcodes.php:1343
+msgid "Donation"
+msgstr "Donación"
+
+#: inc/shortcodes.php:1344
+#, fuzzy
+msgid "donated"
+msgstr "Donado"
+
+#: inc/shortcodes.php:1349
+msgid "Funding"
+msgstr "Financiamiento"
+
+#: inc/shortcodes.php:1350
+#, fuzzy
+msgid "funded"
+msgstr "financiado"
+
+#: inc/shortcodes.php:1355
+#, fuzzy
+msgid "Not enough funds available to make donation!"
+msgstr "¡No hay suficientes fondos disponibles para hacer donaciones!"
+
+#: inc/shortcodes.php:1398
+msgid "completed"
+msgstr "completado"
+
+#: inc/shortcodes.php:1399
+#, fuzzy
+msgid "Reload page to see update!"
+msgstr "¡Vuelva a cargar la página para ver la actualización!"
+
+#: inc/shortcodes.php:1534
+#, fuzzy
+msgid "added a new product"
+msgstr "se ha agregado un nuevo producto"
+
+#: inc/shortcodes.php:1628
+#, fuzzy
+msgid "Product was updated."
+msgstr "El producto se actualizó."
+
+#: inc/shortcodes.php:1849 inc/shortcodes.php:2447 paid-membership.php:1077
+#: paid-membership.php:1222
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/shortcodes.php:1851 inc/shortcodes.php:2468 paid-membership.php:1098
+#: paid-membership.php:1243
+#, fuzzy
+msgid "Tag(s)"
+msgstr "Etiqueta(s)"
+
+#: inc/shortcodes.php:1855
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/shortcodes.php:1856
+msgid "Open"
+msgstr "Abierto"
+
+#: inc/shortcodes.php:1857
+msgid "Closed"
+msgstr "Cerrado"
+
+#: inc/shortcodes.php:1861 inc/shortcodes.php:1863 inc/shortcodes.php:2296
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:213
+msgid "Status"
+msgstr "Estado"
+
+#: inc/shortcodes.php:1861
+msgid "Pending Review"
+msgstr "Pendiente de revisión"
+
+#: inc/shortcodes.php:1864
+msgid "Public"
+msgstr "Público"
+
+#: inc/shortcodes.php:1865
+msgid "Private"
+msgstr "Privado"
+
+#: inc/shortcodes.php:1866
+msgid "Draft"
+msgstr "Borrador"
+
+#: inc/shortcodes.php:1867
+msgid "Trash"
+msgstr "Papelera"
+
+#: inc/shortcodes.php:1868
+#, fuzzy
+msgid ""
+"Move item to Trash for removal. Trash can be permanently removed by admins."
+msgstr ""
+"Mueva el elemento a la Papelera para quitar el elemento. Los administradores "
+"pueden eliminar la papelera de forma permanente."
+
+#: inc/shortcodes.php:1872 inc/shortcodes.php:2297
+msgid "Monetization"
+msgstr "Monetización"
+
+#: inc/shortcodes.php:1874
+#, fuzzy
+msgid "Subscription Tier"
+msgstr "Nivel de suscripción"
+
+#: inc/shortcodes.php:1875
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/shortcodes.php:1892
+msgid "Donations"
+msgstr "Donaciones"
+
+#: inc/shortcodes.php:1893
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: inc/shortcodes.php:1894
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: inc/shortcodes.php:1895
+msgid "Goal"
+msgstr "Objetivo"
+
+#: inc/shortcodes.php:1897
+#, fuzzy
+msgid ""
+"Goal will show progress and Crowdfunding will also publicly list all funders."
+msgstr ""
+"Goal mostrará el progreso y Crowdfunding también enumerará públicamente a "
+"todos los financiadores."
+
+#: inc/shortcodes.php:1899
+msgid "Goal Amount"
+msgstr "Cantidad solicitada"
+
+#: inc/shortcodes.php:1903
+msgid "Goal Name"
+msgstr "Nombre objeto"
+
+#: inc/shortcodes.php:1907
+#, fuzzy
+msgid "Goal Description"
+msgstr "Descripción del objetivo"
+
+#: inc/shortcodes.php:1909
+#, fuzzy
+msgid "Crowdfunding Stake"
+msgstr "Participación de Crowdfunding"
+
+#: inc/shortcodes.php:1910
+#, fuzzy
+msgid "Crowdfunding percent for backers."
+msgstr "Porcentaje de crowdfunding para los patrocinadores."
+
+#: inc/shortcodes.php:1914
+msgid "Sell Price"
+msgstr "Precio de venta"
+
+#: inc/shortcodes.php:1916
+#, fuzzy
+msgid ""
+"Users need to pay this price to access this content. Set 0 for free access."
+msgstr ""
+"Los usuarios deben pagar este precio para acceder a este contenido. "
+"Establezca 0 para el acceso gratuito."
+
+#: inc/shortcodes.php:1919
+#, fuzzy
+msgid "Access Duration"
+msgstr "Duración del acceso"
+
+#: inc/shortcodes.php:1921
+#, fuzzy
+msgid ""
+"Set 720 for 30 days, 336 for 2 weeks, 168 for 1 week, 24 for 1 day, 0 for "
+"unlimited time access (one time fee)."
+msgstr ""
+"Establezca 720 por 30 días, 336 por 2 semanas, 168 por 1 semana, 24 por 1 "
+"día, 0 por tiempo ilimitado (tarifa única)."
+
+#: inc/shortcodes.php:1928
+msgid "More"
+msgstr "Más"
+
+#: inc/shortcodes.php:1931 inc/shortcodes.php:1934 inc/shortcodes.php:2319
+#: inc/shortcodes.php:2322
+msgid "Announce"
+msgstr "Anunciar"
+
+#: inc/shortcodes.php:1931
+#, fuzzy
+msgid "PeepSo Stream"
+msgstr "PeepSo Stream"
+
+#: inc/shortcodes.php:1934
+#, fuzzy
+msgid "BuddyPress Activity"
+msgstr "Actividad BuddyPress"
+
+#: inc/shortcodes.php:1997
+#, fuzzy
+msgid "My Digital Content Assets"
+msgstr "Mis activos de contenido digital"
+
+#: inc/shortcodes.php:2044
+msgid "Text"
+msgstr "Texto"
+
+#: inc/shortcodes.php:2068
+#, fuzzy
+msgid "Include Thumbnail"
+msgstr "Incluir miniatura"
+
+#: inc/shortcodes.php:2072
+#, fuzzy
+msgid "Mention Other Assets"
+msgstr "Mencionar otros activos"
+
+#: inc/shortcodes.php:2097
+#, fuzzy
+msgid "Post to Feed"
+msgstr "Publicar en el feed"
+
+#: inc/shortcodes.php:2220
+#, fuzzy
+msgid "Posted Activity"
+msgstr "Actividad publicada"
+
+#: inc/shortcodes.php:2295
+msgid "Asset"
+msgstr "Activo"
+
+#: inc/shortcodes.php:2296
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/shortcodes.php:2296
+msgid "Updated"
+msgstr "Actualizado"
+
+#: inc/shortcodes.php:2298
+msgid "Action"
+msgstr "Acción"
+
+#: inc/shortcodes.php:2319 inc/shortcodes.php:2322 inc/shortcodes.php:2367
+#: inc/shortcodes.php:2370
+msgid "Post Update"
+msgstr "Publicar actualización"
+
+#: inc/shortcodes.php:2348
+msgid "Set Subscription"
+msgstr "Establece Suscripción"
+
+#: inc/shortcodes.php:2350
+msgid "Set Price"
+msgstr "Asignar precio"
+
+#: inc/shortcodes.php:2362
+#, fuzzy
+msgid "You have no digital content assets, yet."
+msgstr "Todavía no tiene activos de contenido digital."
+
+#: inc/shortcodes.php:2367
+msgid "PeepSo"
+msgstr "PeepSo"
+
+#: inc/shortcodes.php:2370
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: inc/shortcodes.php:2374
+#, fuzzy
+msgid "Upload New Content"
+msgstr "Subir nuevo contenido"
+
+#: inc/shortcodes.php:2378
+msgid "Record"
+msgstr "Grabar"
+
+#: inc/shortcodes.php:2385
+#, fuzzy
+msgid "This page displays your digital content assets."
+msgstr "Esta página muestra sus activos de contenido digital."
+
+#: inc/shortcodes.php:2400
+#, fuzzy
+msgid "Login is required to upload content!"
+msgstr "¡Se requiere iniciar sesión para cargar contenido!"
+
+#: inc/shortcodes.php:2414
+#, fuzzy
+msgid "You do not have permissions to share content!"
+msgstr "¡No tienes permisos para compartir contenido!"
+
+#: inc/shortcodes.php:2451 inc/shortcodes.php:2455
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:204
+msgid "List"
+msgstr "Lista"
+
+#: inc/shortcodes.php:2453
+msgid "List(s)"
+msgstr "Lista(es)"
+
+#: inc/shortcodes.php:2484
+#, fuzzy
+msgid "Default Picture"
+msgstr "Imagen predeterminada"
+
+#: inc/shortcodes.php:2484
+#, fuzzy
+msgid ""
+"A previously uploaded picture can be associated to document uploads. Most "
+"content types like videos, pictures have own thumbnails."
+msgstr ""
+"Una imagen cargada previamente se puede asociar a las cargas de documentos. "
+"La mayoría de los tipos de contenido como videos, imágenes tienen miniaturas "
+"propias."
+
+#: inc/shortcodes.php:2494
+#, fuzzy
+msgid "Submission Results"
+msgstr "Resultados de la presentación"
+
+#: inc/shortcodes.php:2524
+#, fuzzy
+msgid "Only admin can upload for other users!"
+msgstr "¡Solo el administrador puede cargar para otros usuarios!"
+
+#: inc/shortcodes.php:2594 inc/shortcodes.php:2621
+#, fuzzy
+msgid ""
+"Details for each item can be later edited individually from assets page."
+msgstr ""
+"Los detalles de cada elemento se pueden editar posteriormente "
+"individualmente desde la página de activos."
+
+#: inc/shortcodes.php:2624
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:229
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:942
+msgid "Add Files"
+msgstr "Agregar archivos"
+
+#: inc/shortcodes.php:2625
+#, fuzzy
+msgid "Add Common Details"
+msgstr "Agregar detalles comunes"
+
+#: inc/shortcodes.php:2626
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/shortcodes.php:2898
+#, fuzzy
+msgid "My Purchased Items"
+msgstr "Mis artículos comprados"
+
+#: inc/shortcodes.php:2909 paid-membership.php:2445
+msgid "Lifetime"
+msgstr "De por vida"
+
+#: inc/shortcodes.php:2909
+msgid "until"
+msgstr "hasta"
+
+#: inc/shortcodes.php:2948
+#, fuzzy
+msgid "No purchases, yet."
+msgstr "Sin compras, todavía."
+
+#: inc/shortcodes.php:2950
+#, fuzzy
+msgid "This page displays your digital content purchases, for easy access."
+msgstr ""
+"Esta página muestra sus compras de contenido digital, para facilitar el "
+"acceso."
+
+#: inc/shortcodes.php:2960
+#, fuzzy
+msgid "Login for Wallet"
+msgstr "Iniciar sesión para Wallet"
+
+#: inc/shortcodes.php:2960
+#, fuzzy
+msgid "<a class=\"ui "
+msgstr "<a class=\"ui "
+
+#: inc/shortcodes.php:2988
+#, fuzzy
+msgid "Login to manage wallet!"
+msgstr "¡Inicie sesión para administrar la billetera!"
+
+#: inc/shortcodes.php:2997
+msgid "Active balance"
+msgstr "Balance activo"
+
+#: inc/shortcodes.php:2998
+msgid "All Balances"
+msgstr "Todos los balances"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:201
+msgid "Select files"
+msgstr "Selecciona archivos"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:202
+#, fuzzy
+msgid "Add files to the upload queue and click the start button."
+msgstr "Agregue archivos a la cola de carga y haga clic en el botón inicio."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:205
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:212
+msgid "Filename"
+msgstr "Nombre del archivo"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:214
+msgid "Size"
+msgstr "Tamaño"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:220
+#, fuzzy
+msgid "Drag files here."
+msgstr "Arrastre los archivos aquí."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:230
+msgid "Start Upload"
+msgstr "Comenzar Subida"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:231
+#, fuzzy
+msgid "Stop Upload"
+msgstr "Detener carga"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:448
+msgid "File count error."
+msgstr "Error en cuenta de archivo."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:468
+#, javascript-format
+msgid "File: %s"
+msgstr "Archivo: %s"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:472
+#, fuzzy, javascript-format
+msgid "File: %s, size: %d, max file size: %d"
+msgstr "Archivo: %s, tamaño: %d, tamaño máximo del archivo: %d"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:476
+#, fuzzy, javascript-format
+msgid "%s already present in the queue."
+msgstr "%s presentes en la cola."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:480
+#, fuzzy, javascript-format
+msgid ""
+"Upload element accepts only %d file(s) at a time. Extra files were stripped."
+msgstr ""
+"El elemento Upload solo acepta %d archivo(s) a la vez. Los archivos "
+"adicionales fueron eliminados."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:484
+#, fuzzy
+msgid "Image format either wrong or not supported."
+msgstr "Formato de imagen incorrecto o no compatible."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:488
+#, fuzzy
+msgid "Runtime ran out of available memory."
+msgstr "El tiempo de ejecución se quedó sin memoria disponible."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:497
+#, fuzzy
+msgid "Upload URL might be wrong or doesn't exist."
+msgstr "La URL de carga puede ser incorrecta o no existe."
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:834
+msgid "Close"
+msgstr "Cerrar"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:913
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:1026
+#, fuzzy, javascript-format
+msgid "Uploaded %d/%d files"
+msgstr "Archivos %d/%d cargados"
+
+#: interface/jquery.ui.plupload/jquery.ui.plupload.js:944
+#, fuzzy, javascript-format
+msgid "%d files queued"
+msgstr "%d archivos en cola"
+
+#: paid-membership.php:119
+msgid "Author Content"
+msgstr "Contenido del autor"
+
+#: paid-membership.php:123
+#, fuzzy
+msgid "Subscribe to Author"
+msgstr "Suscríbete al autor"
+
+#: paid-membership.php:313
+#, fuzzy
+msgid "Made a Donation"
+msgstr "Hizo una donación"
+
+#: paid-membership.php:319
+#, fuzzy
+msgid "Added a product"
+msgstr "Se ha añadido un producto"
+
+#: paid-membership.php:325
+msgid "Added content"
+msgstr "Agregó contenido"
+
+#: paid-membership.php:331
+#, fuzzy
+msgid "Subscribed to author "
+msgstr "Suscrito al autor "
+
+#: paid-membership.php:434 paid-membership.php:2190
+msgid "Collection"
+msgstr "Colección"
+
+#: paid-membership.php:438
+msgid "Category ID"
+msgstr "ID de categoría"
+
+#: paid-membership.php:444
+msgid "Date"
+msgstr "Fecha"
+
+#: paid-membership.php:445 paid-membership.php:662 paid-membership.php:722
+msgid "Views"
+msgstr "Vistas"
+
+#: paid-membership.php:446
+#, fuzzy
+msgid "Recently Watched"
+msgstr "Visto recientemente"
+
+#: paid-membership.php:449
+#, fuzzy
+msgid "Downloads per Page"
+msgstr "Descargas por página"
+
+#: paid-membership.php:453
+#, fuzzy
+msgid "Downloads per Row"
+msgstr "Descargas por fila"
+
+#: paid-membership.php:457
+msgid "Category Selector"
+msgstr "Selector de categoría: ¿Ocultar etiqueta adicional?"
+
+#: paid-membership.php:463
+#, fuzzy
+msgid "Tags Selector"
+msgstr "Selector de etiquetas"
+
+#: paid-membership.php:469
+#, fuzzy
+msgid "Name Selector"
+msgstr "Selector de nombres"
+
+#: paid-membership.php:475
+#, fuzzy
+msgid "Order Selector"
+msgstr "Selector de pedidos"
+
+#: paid-membership.php:481
+#, fuzzy
+msgid "Page Selector"
+msgstr "Selector de páginas"
+
+#: paid-membership.php:487
+#, fuzzy
+msgid "Include CSS"
+msgstr "Incluir CSS"
+
+#: paid-membership.php:663
+#, fuzzy
+msgid "Viewed Recently"
+msgstr "Visto recientemente"
+
+#: paid-membership.php:723
+msgid "views"
+msgstr "vistas"
+
+#: paid-membership.php:748
+msgid "EDIT"
+msgstr "EDITAR"
+
+#: paid-membership.php:775
+#, fuzzy
+msgid "No downloads."
+msgstr "Sin descargas."
+
+#: paid-membership.php:983
+msgid "Download"
+msgstr "Descargar"
+
+#: paid-membership.php:1036
+#, fuzzy
+msgid "Login is required to import downloads!"
+msgstr "¡Es necesario iniciar sesión para importar descargas!"
+
+#: paid-membership.php:1044 paid-membership.php:1195 paid-membership.php:1472
+#, fuzzy
+msgid "Downloads are disabled from plugin settings!"
+msgstr "¡Las descargas están deshabilitadas desde la configuración del plugin!"
+
+#: paid-membership.php:1048 paid-membership.php:1199 paid-membership.php:1618
+#, fuzzy
+msgid "You do not have permissions to share downloads!"
+msgstr "¡No tienes permisos para compartir descargas!"
+
+#: paid-membership.php:1081 paid-membership.php:1085 paid-membership.php:1226
+#: paid-membership.php:1230
+msgid "collection"
+msgstr "coleccion"
+
+#: paid-membership.php:1083
+#, fuzzy
+msgid "(comma separated)"
+msgstr "(separado por comas)"
+
+#: paid-membership.php:1106 paid-membership.php:1251
+msgid "Picture"
+msgstr "Imagen"
+
+#: paid-membership.php:1122
+msgid "Import downloads"
+msgstr "Importar descargas"
+
+#: paid-membership.php:1149
+msgid "Default"
+msgstr "Defecto"
+
+#: paid-membership.php:1170
+#, fuzzy
+msgid "Install Picture Gallery plugin"
+msgstr "Instalar el plugin Picture Gallery"
+
+#: paid-membership.php:1182
+#, fuzzy
+msgid "Login is required to add downloads!"
+msgstr "¡Es necesario iniciar sesión para agregar descargas!"
+
+#: paid-membership.php:1228
+#, fuzzy
+msgid "Collection(s)"
+msgstr "Colección(es)"
+
+#: paid-membership.php:1286
+#, fuzzy
+msgid ""
+"or Drag & Drop files to this upload area<br>(select rest of options first)"
+msgstr ""
+"o arrastrar y soltar archivos a esta área de carga<br>(seleccione primero el "
+"resto de opciones)"
+
+#: paid-membership.php:1292
+msgid "Upload Files"
+msgstr "Subir archivos"
+
+#: paid-membership.php:1307
+#, fuzzy
+msgid "Add Download: File Upload"
+msgstr "Agregar descarga: Carga de archivos"
+
+#: paid-membership.php:1307
+msgid "Files to upload"
+msgstr "Archivos a Cargar"
+
+#: paid-membership.php:1316
+#, fuzzy
+msgid "Supported Extensions"
+msgstr "Extensiones compatibles"
+
+#: paid-membership.php:1728
+#, fuzzy
+msgid "Download was submitted and is pending approval."
+msgstr "La descarga se envió y está pendiente de aprobación."
+
+#: paid-membership.php:1730
+#, fuzzy
+msgid "Download was published"
+msgstr "Se publicó la descarga"
+
+#: paid-membership.php:2171 paid-membership.php:2181
+msgid "Channel"
+msgstr "Canal"
+
+#: paid-membership.php:2200
+#, fuzzy
+msgid "Download Views"
+msgstr "Descargar vistas"
+
+#: paid-membership.php:2206
+#, fuzzy
+msgid "My Review"
+msgstr "Mi opinión"
+
+#: paid-membership.php:2212
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: paid-membership.php:2235
+msgctxt "Post Type General Name"
+msgid "Downloads"
+msgstr "Descargas"
+
+#: paid-membership.php:2236
+msgctxt "Post Type Singular Name"
+msgid "Download"
+msgstr "Descargar"
+
+#: paid-membership.php:2238
+msgid "Parent Download:"
+msgstr "Descargar Superior:"
+
+#: paid-membership.php:2239
+msgid "All Downloads"
+msgstr "Todas las descargas"
+
+#: paid-membership.php:2240
+msgid "View Download"
+msgstr "Ver descarga"
+
+#: paid-membership.php:2241
+msgid "Add New Download"
+msgstr "Agregar nueva descarga"
+
+#: paid-membership.php:2242
+msgid "New Download"
+msgstr "Nueva descarga"
+
+#: paid-membership.php:2243
+msgid "Edit Download"
+msgstr "Editar la Descarga"
+
+#: paid-membership.php:2244
+#, fuzzy
+msgid "Update Download"
+msgstr "Descarga de actualizaciones"
+
+#: paid-membership.php:2245
+msgid "Search Downloads"
+msgstr "Descargas de búsqueda"
+
+#: paid-membership.php:2246
+msgid "No Downloads found"
+msgstr "Sin Descargas encontradas"
+
+#: paid-membership.php:2247
+msgid "No Downloads found in Trash"
+msgstr "Sin Descarga en la papelera"
+
+#: paid-membership.php:2250
+#, fuzzy
+msgid "New download published"
+msgstr "Nueva descarga publicada"
+
+#: paid-membership.php:2252
+#, fuzzy, php-format
+msgid "%1$s posted a new <a href=\"%2$s\">download</a>"
+msgstr "%1$s publicó una nueva <a href=\"%2$s\">descarga</a>"
+
+#: paid-membership.php:2253
+#, fuzzy, php-format
+msgid "%1$s posted a new <a href=\"%2$s\">download</a>, on the site %3$s"
+msgstr "%1$s publicó una nueva <a href=\"%2$s\">descarga,</a>en el sitio %3$s"
+
+#: paid-membership.php:2258
+msgid "download"
+msgstr "descargar"
+
+#: paid-membership.php:2294
+msgctxt "taxonomy general name"
+msgid "Collections"
+msgstr "Colecciones"
+
+#: paid-membership.php:2295
+msgctxt "taxonomy singular name"
+msgid "Collection"
+msgstr "Colección"
+
+#: paid-membership.php:2296
+msgid "Search Collections"
+msgstr "Buscar Colecciones"
+
+#: paid-membership.php:2297
+msgid "All Collections"
+msgstr "Todas las Colecciones"
+
+#: paid-membership.php:2298
+msgid "Parent Collection"
+msgstr "Colección Principal"
+
+#: paid-membership.php:2299
+msgid "Parent Collection:"
+msgstr "Colección Principal:"
+
+#: paid-membership.php:2300
+msgid "Edit Collection"
+msgstr "Editar colección"
+
+#: paid-membership.php:2301
+msgid "Update Collection"
+msgstr "Actualizar la Colección"
+
+#: paid-membership.php:2302
+msgid "Add New Collection"
+msgstr "Añadir Nueva Colección"
+
+#: paid-membership.php:2303
+msgid "New Collection Name"
+msgstr "Nombre de la nueva colección"
+
+#: paid-membership.php:2304
+msgid "Collections"
+msgstr "Colecciones"
+
+#: paid-membership.php:2425
+msgid "One time"
+msgstr "Una vez"
+
+#: paid-membership.php:2428
+msgid "Weekly"
+msgstr "Semanal"
+
+#: paid-membership.php:2431
+msgid "Biweekly"
+msgstr "Quincenal"
+
+#: paid-membership.php:2434
+msgid "Monthly"
+msgstr "Mensual"
+
+#: paid-membership.php:2437
+msgid "Yearly"
+msgstr "Anual"
+
+#: paid-membership.php:2448
+msgid "1 Week"
+msgstr "1 Semana"
+
+#: paid-membership.php:2451
+msgid "2 Weeks"
+msgstr "2 semanas"
+
+#: paid-membership.php:2454
+msgid "1 Month"
+msgstr "1 Mes"
+
+#: paid-membership.php:2457
+msgid "1 Year"
+msgstr "1 Año"
+
+#: paid-membership.php:2467
+msgid "lifetime"
+msgstr "toda la vida"
+
+#: paid-membership.php:2469
+msgid "hours"
+msgstr "horas"
+
+#: paid-membership.php:2530
+#, fuzzy
+msgid "You are the owner of this content."
+msgstr "Usted es el propietario de este contenido."
+
+#: paid-membership.php:2530 paid-membership.php:2610 paid-membership.php:2647
+#: paid-membership.php:2660 paid-membership.php:2674
+#, fuzzy
+msgid "Access Price"
+msgstr "Precio de acceso"
+
+#: paid-membership.php:2578
+#, fuzzy
+msgid "This content is available with author subscription."
+msgstr "Este contenido está disponible con suscripción de autor."
+
+#: paid-membership.php:2586
+#, fuzzy
+msgid "See Subscriptions"
+msgstr "Ver Suscripciones"
+
+#: paid-membership.php:2622
+#, fuzzy
+msgid "Insufficient funds!"
+msgstr "¡Fondos insuficientes!"
+
+#: paid-membership.php:2647
+#, fuzzy
+msgid "Other users can see your content after purchasing access."
+msgstr "Otros usuarios pueden ver su contenido después de comprar access."
+
+#: paid-membership.php:2660
+#, fuzzy
+msgid "You purchased this content."
+msgstr "Has comprado este contenido."
+
+#: paid-membership.php:2665
+msgid "Insufficient Funds"
+msgstr "Fondos Insuficientes"
+
+#: paid-membership.php:2668
+#, fuzzy
+msgid "Purchase Access"
+msgstr "Acceso a la compra"
+
+#: paid-membership.php:2690 paid-membership.php:2696
+msgid "View Product"
+msgstr "Ver producto"
+
+#: paid-membership.php:2696
+#, fuzzy
+msgid "Other users can see your content after purchasing access product."
+msgstr ""
+"Otros usuarios pueden ver su contenido después de comprar el producto de "
+"access."
+
+#: paid-membership.php:2729
+#, fuzzy
+msgid "You purchased this content product."
+msgstr "Has comprado este producto de contenido."
+
+#: paid-membership.php:2732
+#, fuzzy
+msgid "Buy Product"
+msgstr "Comprar producto"
+
+#: template-download.php:48
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+"No pudimos encontrar ninguna publicación que coincida con su consulta. "
+"Inténtalo de nuevo."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid ""
+"MicroPayments - Paid Author Subscriptions, Content, Downloads, Membership"
+msgstr ""
+"MicroPayments - Suscripciones de autor de pago, contenido, descargas, "
+"membresía"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://ppvscript.com/micropayments/"
+msgstr "https://ppvscript.com/micropayments/"
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr "VideoWhisper.com"
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr "https://videowhisper.com/"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "VideoWhisper Full"
+msgstr "VideoWhisper Full"
